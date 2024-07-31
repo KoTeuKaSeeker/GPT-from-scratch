@@ -1,3 +1,4 @@
+## Transformer model
 This code was written according to Andrej Karpathy's tutorial. The result is a transformer model, that can continue the text. 
 The generation looks pretty similar to the original text, but the words don't make any sense. To get better results, it's enougth to increese the model and its training time. 
 Now the results look like this:
